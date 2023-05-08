@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmOtomasyonu", "AtmOtomasyonu\AtmOtomasyonu.csproj", "{AB08D820-B826-42CC-9904-BA3AD22CEF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB08D820-B826-42CC-9904-BA3AD22CEF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB08D820-B826-42CC-9904-BA3AD22CEF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB08D820-B826-42CC-9904-BA3AD22CEF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB08D820-B826-42CC-9904-BA3AD22CEF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0EAC072-94D8-4C2E-9014-AB0242EFF836}
+	EndGlobalSection
+EndGlobal
